@@ -1,6 +1,7 @@
 <code_scheme name="Default" version="173">
   <option name="RIGHT_MARGIN" value="90" />
   <PHPCodeStyleSettings>
+    <option name="CONCAT_SPACES" value="false" />
     <option name="COMMA_AFTER_LAST_ARRAY_ELEMENT" value="true" />
     <option name="PHPDOC_BLANK_LINE_BEFORE_TAGS" value="true" />
     <option name="PHPDOC_PARAM_SPACES_BETWEEN_TAG_AND_TYPE" value="2" />
