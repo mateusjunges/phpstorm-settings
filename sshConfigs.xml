@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="interaction-design.org" id="60190d75-f6f3-4303-90b6-668b3f0d64ab" keyPath="$USER_HOME$/.ssh/ixdf" port="22" nameFormat="DESCRIPTIVE" username="forge" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</application>
