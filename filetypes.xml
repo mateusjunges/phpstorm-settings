@@ -1,16 +1,16 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="root" type="AUTO_DETECTED" />
       <mapping pattern="," type="AUTO_DETECTED" />
       <mapping pattern="c7ca4ff05d94b5572288a01c959c87fc246f7c16" type="AUTO_DETECTED" />
       <mapping pattern="paylivre" type="AUTO_DETECTED" />
+      <mapping pattern="root" type="AUTO_DETECTED" />
       <mapping ext="json-8" type="JSON" />
       <mapping pattern=".env2" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="stub" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
-      <mapping ext="json-9" type="PLAIN_TEXT" />
+      <removed_mapping ext="json-9" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
