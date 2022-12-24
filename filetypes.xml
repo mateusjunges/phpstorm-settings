@@ -5,6 +5,7 @@
       <mapping pattern="," type="AUTO_DETECTED" />
       <mapping pattern="c7ca4ff05d94b5572288a01c959c87fc246f7c16" type="AUTO_DETECTED" />
       <mapping pattern="paylivre" type="AUTO_DETECTED" />
+      <mapping pattern="0019504144b0d4f23c2d4912ae1c2a9ef87e99a5" type="AUTO_DETECTED" />
       <mapping ext="json-8" type="JSON" />
       <mapping pattern=".env2" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
