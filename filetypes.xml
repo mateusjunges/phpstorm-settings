@@ -9,7 +9,6 @@
       <mapping ext="json-8" type="JSON" />
       <mapping pattern=".env2" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="stub" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
       <removed_mapping ext="json-9" approved="true" type="PLAIN_TEXT" />
