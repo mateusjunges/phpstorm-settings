@@ -2,6 +2,9 @@
   <component name="SshConfigs">
     <configs>
       <sshConfig host="interaction-design.org" id="60190d75-f6f3-4303-90b6-668b3f0d64ab" keyPath="$USER_HOME$/.ssh/ixdf-prod" port="22" nameFormat="DESCRIPTIVE" username="forge" useOpenSSHConfig="true" />
+      <sshConfig host="interaction-design.org" id="d849f318-9fa7-48fe-803a-e72df4f449da" keyPath="$USER_HOME$/.ssh/ixdf-prod" port="22" customName="forge@interaction-design.org:22 key2" nameFormat="CUSTOM" username="forge" useOpenSSHConfig="true">
+        <option name="customName" value="forge@interaction-design.org:22 key2" />
+      </sshConfig>
     </configs>
   </component>
 </application>
