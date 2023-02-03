@@ -5,6 +5,7 @@
         <option name="suppressed">
           <set>
             <option value="was soft deleted." />
+            <option value="an invite" />
           </set>
         </option>
       </SuppressingContext>
