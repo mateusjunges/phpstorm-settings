@@ -1,4 +1,5 @@
 <code_scheme name="Default" version="173">
+  <option name="AUTODETECT_INDENTS" value="false" />
   <option name="RIGHT_MARGIN" value="90" />
   <PHPCodeStyleSettings>
     <option name="CONCAT_SPACES" value="false" />
@@ -35,7 +36,7 @@
     <option name="FOR_BRACE_FORCE" value="3" />
     <option name="WRAP_ON_TYPING" value="0" />
     <indentOptions>
-      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="SMART_TABS" value="true" />
     </indentOptions>
   </codeStyleSettings>
 </code_scheme>
