@@ -5,6 +5,10 @@
       <sshConfig host="interaction-design.org" id="d849f318-9fa7-48fe-803a-e72df4f449da" keyPath="$USER_HOME$/.ssh/ixdf-prod" port="22" customName="forge@interaction-design.org:22 key2" nameFormat="CUSTOM" username="forge" useOpenSSHConfig="true">
         <option name="customName" value="forge@interaction-design.org:22 key2" />
       </sshConfig>
+      <sshConfig host="information-architecture.org" id="0458f2eb-0fb6-4362-8b34-7c4a2caa9783" keyPath="$USER_HOME$/.ssh/ixdf-staging" port="22" nameFormat="DESCRIPTIVE" username="forge" useOpenSSHConfig="true" />
+      <sshConfig host="forge" id="13b576fa-d8e9-4c87-963f-0c4a34d39273" keyPath="$USER_HOME$/.ssh/ixdf-staging" port="22" customName="information-architecture.org@forge:22 key2" nameFormat="CUSTOM" username="information-architecture.org" useOpenSSHConfig="true">
+        <option name="customName" value="information-architecture.org@forge:22 key2" />
+      </sshConfig>
     </configs>
   </component>
 </application>
