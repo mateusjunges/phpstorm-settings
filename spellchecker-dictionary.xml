@@ -20,6 +20,7 @@
       <w>fulfillers</w>
       <w>fullname</w>
       <w>geoip</w>
+      <w>hasher</w>
       <w>hydrator</w>
       <w>indexable</w>
       <w>ipapi</w>
