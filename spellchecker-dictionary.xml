@@ -26,6 +26,7 @@
       <w>geoip</w>
       <w>hasher</w>
       <w>hydrator</w>
+      <w>ilike</w>
       <w>indexable</w>
       <w>ipapi</w>
       <w>ipdata</w>
