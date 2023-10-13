@@ -4,7 +4,7 @@
     <property name="created">2022-06-14T10:27:06</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2022.1.2.0.0</property>
-    <property name="modified">2023-04-12T14:59:47</property>
+    <property name="modified">2023-10-13T13:29:37</property>
     <property name="originalScheme">Atom One Dark (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -87,7 +87,7 @@
     <option name="FILESTATUS_modifiedOutside" value="61aeef" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="282a36" />
     <option name="GUTTER_BACKGROUND" value="282c34" />
-    <option name="INDENT_GUIDE" value="3c4049" />
+    <option name="INDENT_GUIDE" value="282c34" />
     <option name="INFORMATION_HINT" value="282c34" />
     <option name="INLINE_REFACTORING_SETTINGS_DEFAULT" value="282a36" />
     <option name="INLINE_REFACTORING_SETTINGS_FOCUSED" value="3e4451" />
@@ -173,7 +173,7 @@
     <option name="VCS_ANNOTATIONS_COLOR_3" value="37474f" />
     <option name="VCS_ANNOTATIONS_COLOR_4" value="39adb5" />
     <option name="VCS_ANNOTATIONS_COLOR_5" value="f07178" />
-    <option name="VISUAL_INDENT_GUIDE" value="3c4049" />
+    <option name="VISUAL_INDENT_GUIDE" value="" />
     <option name="WHITESPACES" value="2e3c43" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="59626f" />
   </colors>
