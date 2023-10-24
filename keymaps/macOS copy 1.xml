@@ -7,8 +7,13 @@
   <action id="Diff.ApplyRightSide" />
   <action id="DuplicatesForm.SendToRight" />
   <action id="FileChooser.GotoProject" />
+  <action id="FindNext" />
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="alt b" />
+  </action>
+  <action id="GotoLine">
+    <keyboard-shortcut first-keystroke="meta l" />
+    <keyboard-shortcut first-keystroke="meta g" />
   </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl meta right" />
