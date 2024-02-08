@@ -3,13 +3,25 @@
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="meta 2" />
   </action>
+  <action id="Console.Execute.Multiline" />
+  <action id="Console.SplitLine" />
   <action id="Diff.ApplyLeftSide" />
   <action id="Diff.ApplyRightSide" />
+  <action id="DirDiffMenu.SynchronizeDiff.All" />
+  <action id="Docker.RemoteServers.StartComposeService" />
+  <action id="Docker.RemoteServers.StartContainer" />
   <action id="DuplicatesForm.SendToRight" />
+  <action id="EditorSplitLine" />
   <action id="FileChooser.GotoProject" />
   <action id="FindNext" />
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="alt b" />
+  </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="meta b" />
+    <mouse-shortcut keystroke="meta button1" />
+    <mouse-shortcut keystroke="button2" />
+    <keyboard-shortcut first-keystroke="meta enter" />
   </action>
   <action id="GotoLine">
     <keyboard-shortcut first-keystroke="meta l" />
@@ -21,4 +33,7 @@
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="ctrl meta left" />
   </action>
+  <action id="SplitChooser.Duplicate" />
+  <action id="Terminal.SmartCommandExecution.Run" />
+  <action id="ViewSource" />
 </keymap>
