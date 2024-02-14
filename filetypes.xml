@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="18">
+  <component name="FileTypeManager" version="19">
     <extensionMap>
       <mapping pattern="root" type="AUTO_DETECTED" />
       <mapping pattern="," type="AUTO_DETECTED" />
@@ -12,7 +12,6 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="stub" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
-      <mapping ext="log" type="PLAIN_TEXT" />
       <removed_mapping ext="json-9" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
