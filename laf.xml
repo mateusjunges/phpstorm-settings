@@ -1,5 +1,8 @@
 <application>
   <component name="LafManager">
-    <laf themeId="ONE_DARK" />
+    <laf themeId="ARC_DARK" />
+    <lafs-to-previous-schemes>
+      <laf-to-scheme laf="ONE_DARK" scheme="Atom One Dark (Material) copy" />
+    </lafs-to-previous-schemes>
   </component>
 </application>
