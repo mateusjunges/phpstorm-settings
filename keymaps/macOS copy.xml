@@ -28,6 +28,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl b" />
     <mouse-shortcut keystroke="shift meta button1" />
   </action>
+  <action id="HippieCompletion" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
     <keyboard-shortcut first-keystroke="ctrl meta right" />
@@ -42,6 +43,9 @@
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="ctrl j" />
     <mouse-shortcut keystroke="control button2" />
+  </action>
+  <action id="ShowPopupMenu">
+    <keyboard-shortcut first-keystroke="alt slash" />
   </action>
   <action id="SmartTypeCompletion">
     <keyboard-shortcut first-keystroke="shift ctrl space" />

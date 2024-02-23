@@ -4,7 +4,7 @@
     <property name="created">2022-06-14T10:27:06</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2022.1.2.0.0</property>
-    <property name="modified">2024-02-23T18:57:42</property>
+    <property name="modified">2024-02-23T19:46:22</property>
     <property name="originalScheme">Atom One Dark (Material)</property>
     <property name="partialSave">true</property>
   </metaInfo>
@@ -22,28 +22,12 @@
   </console-font>
   <option name="CONSOLE_LIGATURES" value="true" />
   <colors>
-    <option name="FILESTATUS_ADDED" value="c3e887" />
-    <option name="FILESTATUS_COPIED" value="8f9d6a" />
-    <option name="FILESTATUS_DELETED" value="f77669" />
-    <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="808080" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="ab7967" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="f77669" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="f77669" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="f77669" />
+    <option name="FILESTATUS_ADDED" value="98c379" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="8f9d6a" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
     <option name="FILESTATUS_IDEA_SVN_REPLACED" value="c3e88d" />
-    <option name="FILESTATUS_MERGED" value="9b859d" />
-    <option name="FILESTATUS_MODIFIED" value="80cbc4" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
+    <option name="FILESTATUS_MODIFIED" value="e5c17c" />
     <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
-    <option name="FILESTATUS_SUPPRESSED" value="546e7a" />
-    <option name="FILESTATUS_SWITCHED" value="f77669" />
-    <option name="FILESTATUS_addedOutside" value="47bc9b" />
-    <option name="FILESTATUS_changelistConflict" value="f77669" />
-    <option name="FILESTATUS_modifiedOutside" value="9b859d" />
     <option name="INDENT_GUIDE" value="282c34" />
     <option name="NOTIFICATION_BACKGROUND" value="3d1a11" />
     <option name="VISUAL_INDENT_GUIDE" value="" />
