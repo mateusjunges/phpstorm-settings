@@ -12,6 +12,7 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="stub" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
+      <mapping pattern=".project-helpers" type="Shell Script" />
       <removed_mapping ext="json-9" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
