@@ -13,6 +13,7 @@
       <w>pcntl</w>
       <w>prorations</w>
       <w>pullock</w>
+      <w>ratecon</w>
       <w>rebalance</w>
       <w>redirector</w>
       <w>sluggable</w>
