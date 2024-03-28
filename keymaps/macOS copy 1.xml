@@ -32,11 +32,15 @@
     <mouse-shortcut keystroke="shift meta button1" />
   </action>
   <action id="Graph.AlignNodes.Bottom" />
+  <action id="HippieCompletion" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl meta right" />
   </action>
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="ctrl meta left" />
+  </action>
+  <action id="ShowPopupMenu">
+    <keyboard-shortcut first-keystroke="alt slash" />
   </action>
   <action id="SplitChooser.Duplicate" />
   <action id="Terminal.SmartCommandExecution.Run" />
