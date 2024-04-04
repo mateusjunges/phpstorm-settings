@@ -15,6 +15,7 @@
       <w>librdkafka</w>
       <w>loadboard</w>
       <w>macroed</w>
+      <w>madico</w>
       <w>pcntl</w>
       <w>pinnable</w>
       <w>prorations</w>
