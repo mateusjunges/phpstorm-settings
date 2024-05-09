@@ -1,12 +1,11 @@
-<scheme name="_@user_Material Lighter" version="142" parent_scheme="Default">
+<scheme name="_@user_Material Sky Blue" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2023-10-13T14:14:49</property>
     <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2022.3.2.0.0</property>
-    <property name="modified">2024-02-23T11:00:04</property>
-    <property name="originalScheme">Material Lighter</property>
+    <property name="ideVersion">2024.1.0.0</property>
+    <property name="originalScheme">Material Sky Blue</property>
     <property name="partialSave">true</property>
+    <property name="pluginId">com.chrisrm.idea.MaterialThemeUI</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <font>
@@ -42,24 +41,10 @@
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
     <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
     <option name="FILESTATUS_RENAMED" value="c679dd" />
-    <option name="FILESTATUS_SUPPRESSED" value="676e95" />
+    <option name="FILESTATUS_SUPPRESSED" value="959daa" />
     <option name="FILESTATUS_SWITCHED" value="c792ea" />
     <option name="FILESTATUS_addedOutside" value="ffcb6b" />
     <option name="FILESTATUS_changelistConflict" value="fc9867" />
     <option name="FILESTATUS_modifiedOutside" value="c792ea" />
   </colors>
-  <attributes>
-    <option name="INACTIVE_HYPERLINK_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="808080" />
-        <option name="EFFECT_COLOR" value="808080" />
-      </value>
-    </option>
-    <option name="LIVE_TEMPLATE_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="272727" />
-        <option name="BACKGROUND" value="3f51b5" />
-      </value>
-    </option>
-  </attributes>
 </scheme>
