@@ -49,7 +49,6 @@
     <mouse-shortcut keystroke="control button2" />
   </action>
   <action id="Refresh" />
-  <action id="Replace" />
   <action id="Rerun" />
   <action id="ShowPopupMenu">
     <keyboard-shortcut first-keystroke="alt slash" />
@@ -61,7 +60,7 @@
   <action id="SplitChooser.Duplicate" />
   <action id="Svn.RefreshWorkingCopies" />
   <action id="Terminal.RenameSession">
-    <keyboard-shortcut first-keystroke="meta r" />
+    <keyboard-shortcut first-keystroke="alt r" />
   </action>
   <action id="Terminal.SmartCommandExecution.Run" />
   <action id="ToggleLineBreakpoint">
