@@ -33,6 +33,9 @@
     <mouse-shortcut keystroke="shift meta button1" />
   </action>
   <action id="HippieCompletion" />
+  <action id="MergeAllWindowsAction">
+    <keyboard-shortcut first-keystroke="shift ctrl m" />
+  </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
     <keyboard-shortcut first-keystroke="ctrl meta right" />
