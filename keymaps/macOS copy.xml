@@ -64,7 +64,7 @@
   <action id="SplitChooser.Duplicate" />
   <action id="Svn.RefreshWorkingCopies" />
   <action id="Terminal.RenameSession">
-    <keyboard-shortcut first-keystroke="alt r" />
+    <keyboard-shortcut first-keystroke="alt f6" />
   </action>
   <action id="Terminal.SmartCommandExecution.Run" />
   <action id="ToggleLineBreakpoint">
