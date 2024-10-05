@@ -18,7 +18,6 @@
       <map>
         <entry key="CwmWireStatsWidgetFactory" value="false" />
         <entry key="Laravel" value="false" />
-        <entry key="ReadOnlyAttribute" value="false" />
         <entry key="TypeScriptInfo" value="false" />
         <entry key="mtProjectFactory" value="false" />
         <entry key="php.language.level.widget" value="false" />
