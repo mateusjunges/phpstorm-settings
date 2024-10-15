@@ -20,6 +20,7 @@
         <entry key="Laravel" value="false" />
         <entry key="TypeScriptInfo" value="false" />
         <entry key="mtProjectFactory" value="false" />
+        <entry key="php.debug.status.widget" value="false" />
         <entry key="php.language.level.widget" value="false" />
         <entry key="settingsEntryPointWidget" value="false" />
       </map>
