@@ -8,19 +8,16 @@
     <entry key="editor.focus.mode.color.dark" value="777777" />
     <entry key="ide.mac.transparentTitleBarAppearance" value="true" />
     <entry key="ide.experimental.ui" value="true" />
-    <entry key="ide.balloon.shadow.size" value="0" />
-    <entry key="ide.editor.tab.selection.animation" value="true" />
-    <entry key="ide.new.editor.tabs.vertical.borders" value="true" />
-    <entry key="ide.animate.toolwindows" value="true" />
-    <entry key="editor.distraction.free.mode" value="true" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
       <map>
         <entry key="CwmWireStatsWidgetFactory" value="false" />
+        <entry key="GridAggregator" value="false" />
         <entry key="Laravel" value="false" />
+        <entry key="Notifications" value="false" />
         <entry key="TypeScriptInfo" value="false" />
-        <entry key="mtProjectFactory" value="false" />
+        <entry key="git" value="true" />
         <entry key="php.debug.status.widget" value="false" />
         <entry key="php.language.level.widget" value="false" />
         <entry key="settingsEntryPointWidget" value="false" />

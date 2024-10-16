@@ -5,6 +5,11 @@
         <option name="accentColorHex" value="2979ff" />
       </MTAccentConfigState>
     </option>
+    <option name="featuresState">
+      <MTFeaturesConfigState>
+        <option name="centeredEditor" value="true" />
+      </MTFeaturesConfigState>
+    </option>
     <option name="metadata">
       <MTMetadataState>
         <option name="pristineConfig" value="false" />
