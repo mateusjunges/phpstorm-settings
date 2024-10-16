@@ -2,7 +2,7 @@
   <component name="MaterialThemeNewConfig">
     <option name="accentState">
       <MTAccentConfigState>
-        <option name="accentColorHex" value="6b9bfa" />
+        <option name="accentColorHex" value="2979ff" />
       </MTAccentConfigState>
     </option>
     <option name="metadata">
@@ -19,7 +19,7 @@
     </option>
     <option name="themeState">
       <MTThemeConfigState>
-        <option name="selectedThemeName" value="NATIVE" />
+        <option name="selectedThemeName" value="ONE_DARK" />
       </MTThemeConfigState>
     </option>
   </component>
