@@ -22,22 +22,12 @@
   </console-font>
   <option name="CONSOLE_LIGATURES" value="true" />
   <colors>
-    <option name="FILESTATUS_ADDED" value="50a14e" />
-    <option name="FILESTATUS_COPIED" value="50a14e" />
-    <option name="FILESTATUS_DELETED" value="a0a1a7" />
-    <option name="FILESTATUS_HIJACKED" value="a626a4" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="a0a1a7" />
+    <option name="FILESTATUS_ADDED" value="98c379" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="8f9d6a" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
     <option name="FILESTATUS_IDEA_SVN_REPLACED" value="c3e88d" />
-    <option name="FILESTATUS_MERGED" value="4078f2" />
-    <option name="FILESTATUS_MODIFIED" value="986801" />
+    <option name="FILESTATUS_MODIFIED" value="e5c17c" />
     <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
-    <option name="FILESTATUS_RENAMED" value="a626a4" />
-    <option name="FILESTATUS_SUPPRESSED" value="383a42" />
-    <option name="FILESTATUS_SWITCHED" value="4078f2" />
-    <option name="FILESTATUS_addedOutside" value="57b6c2" />
-    <option name="FILESTATUS_modifiedOutside" value="4078f2" />
     <option name="INDENT_GUIDE" value="282c34" />
     <option name="NOTIFICATION_BACKGROUND" value="3d1a11" />
     <option name="VISUAL_INDENT_GUIDE" value="" />
